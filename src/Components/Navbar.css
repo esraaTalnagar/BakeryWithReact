@@ -1,0 +1,21 @@
+    .nav ul li {
+        padding: 0 15px;
+        font-size: 18px;
+        line-height: 31.62px;
+        font-family: 'Alegreya';
+    }
+    
+    .nav ul li a {
+        padding: 27.5px 15px;
+    }
+    
+    .active {
+        border-top: 3px solid #AD9667 !important;
+    }
+    
+    .navbar {
+        padding: 0px !important;
+        justify-content: space-between;
+    }
+
+    
