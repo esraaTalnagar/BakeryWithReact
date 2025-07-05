@@ -7,7 +7,7 @@ import Contact from "./Pages/Contact";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/BakeryWithReact/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
